@@ -1,0 +1,39 @@
+#quote-box-wrapper{
+  max-width: 500px;
+  max-height: 500px;
+}
+
+#quote-box {
+  /* border:1px solid black; */
+  display: flex;
+  flex-direction: column;
+  padding:10px 5px;
+}
+
+#text {
+  font-size: 1.5rem;
+  /* border:1px solid black; */
+  width:auto;
+}
+
+
+#author {
+  font-size: 1.1rem;
+  text-align: right;
+  /* border:1px solid black; */
+  width:auto;
+  padding:5px 25px;
+}
+
+#new-quote {
+  background-color: rgb(158, 155, 155);
+  color:white;
+}
+
+
+
+
+
+
+
+
